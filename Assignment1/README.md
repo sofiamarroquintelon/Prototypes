@@ -26,9 +26,9 @@ The app allows users to:
 ## Main Challenges
 
 - Selecting the most relevant variables from the dataset
-- Choosing which Streamlit features to include (there are so many!)
+- Choosing which Streamlit features to include (there are so many)
 - Some features like `st.tags` and calendar heatmaps didn’t work as expected, so I had to find alternatives like `st.multiselect` and a standard calendar
-- Learning how to properly implement the selected widgets — trial and error and a bit of help from ChatGPT made it work!
+- Learning how to properly implement the selected widgets — trial and error and a bit of help from ChatGPT made it work
 
 ---
 
